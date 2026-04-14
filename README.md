@@ -102,7 +102,6 @@ I’m always open to exciting projects! Reach out for collaborations, consultati
 <div align="center">
     <img align="left" height="150" src="https://github.com/fortune-uwha/fortune-uwha/raw/main/Gif/Fortune-octocat-rotating.gif?raw=true" alt="Rotating Octocat">
     <div style="margin-left: 170px;">
-            <img src="https://user-images.githubusercontent.com/40443167/162639626-3d3ae8bd-e02e-4854-aeb0-b0ffa457184a.png" alt="Website" width="30px">
         </a>
         <a href="mailto:dalbeer.tws@tekkiwebsolutions.com" target="_blank">
             <img src="https://user-images.githubusercontent.com/40443167/162639747-6f6067e8-0fc0-480d-b820-58594dd93390.png" alt="Email" width="30px">
